@@ -1,0 +1,33 @@
+.result{
+    display: flex;
+
+}
+
+.linkText{
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    background-color: #242238;
+    width: 40vw;
+    height: 3.2rem;
+    border-radius: 0.5rem 0 0 0.5rem;
+    border: none;
+    padding-left: .5rem;
+    color: white;
+    
+}
+
+.linkCopyButt{
+    display: flex;
+    
+    align-items: center;
+    background-color: #242238;
+    width: fit-content;
+    height: 3.2rem;
+    border-radius: 0 0.5rem 0.5rem 0;
+    border: none;
+    color: white;
+    font-size: 20px;
+    padding: 0 2vw;
+
+}

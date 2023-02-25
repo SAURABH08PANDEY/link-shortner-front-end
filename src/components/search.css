@@ -1,0 +1,24 @@
+#linkInput{
+    width: 40vw;
+    height: 3.2rem;
+    border-radius: 0.5rem 0 0 0.5rem;
+    border: none;
+    padding-left: .5rem;
+}
+
+#linkButton{
+
+    width: fit-content;
+    height: 3.2rem;
+    border-radius: 0 0.5rem 0.5rem 0;
+    border: none;
+    background-color: #108D7D;
+    color: white;
+    font-size: 20px;
+    padding: 0 2vw;
+}
+
+.inputContainer{
+    display: flex;
+    justify-content: baseline;
+}
